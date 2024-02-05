@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lbovolini:ObjectMapper:0.2.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.lbovolini" artifactId="ObjectMapper" version="0.2.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.lbovolini/ObjectMapper/0.2.3/8087181fe6d64c3cd7ba8c9b56b639d0f8f9b75d/ObjectMapper-0.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.github.lbovolini/ObjectMapper/0.2.3/274b2f221a85f7ed06530e956913fcd0450a7adb/ObjectMapper-0.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
